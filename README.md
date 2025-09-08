@@ -48,3 +48,11 @@ http://www.qq.com/check1.php?url=http://www.baidu.com
 - 批量检测域名列表
 - 前端页面提交检测请求
 - 命令行调用支持（CLI）
+
+## 成品
+
+通过这个接口就可以做成很多有用的实际应用，例如：
+
+![image](https://p5.ssl.qhimg.com/t11b673bcd6e16675f1038996f7.jpg)
+
+如需这个源码，可付费获得，联系微信号：sansure2016（备注域名检测）
