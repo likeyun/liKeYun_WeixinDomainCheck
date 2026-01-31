@@ -2,10 +2,12 @@
 
 我们开发了新的接口，可检测多种类型的封禁。
 
-<img src="https://p0.ssl.qhimg.com/t11b673bcd62fe0d6b36e7ac456.jpg" alt="image" width="400" >
-<img src="https://p2.ssl.qhimg.com/t11b673bcd68eb6473f9d72c801.jpg" alt="image" width="400" >
+<img src="https://p0.ssl.qhimg.com/t11b673bcd62fe0d6b36e7ac456.jpg" alt="image" width="600" >
+<img src="https://p2.ssl.qhimg.com/t11b673bcd68eb6473f9d72c801.jpg" alt="image" width="600" >
 
-有兴趣可以戳这里了解：https://afdian.com/item/6e6c8d08cb3211efb12052540025c377
+**有兴趣可以戳这里了解：https://afdian.com/item/6e6c8d08cb3211efb12052540025c377**
+
+---
 
 # 🔍 WeixinDomainCheck - 微信域名拦截检测接口
 
